@@ -1,2 +1,2 @@
 # random-projects
-basically i just slap stuff in here that I don't care for
+basically i just slap stuff in here for when I get bored and code
